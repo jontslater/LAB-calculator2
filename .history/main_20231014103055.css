@@ -1,0 +1,62 @@
+body{
+  background-color: white;
+}
+
+.container{
+  width: 400px;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+
+
+.buttonss{
+  background-color: #d8d9db;
+  height: 90px;
+  width: 90px;
+  font-size: xx-large;
+  font-weight: bold;
+  border: 1px;
+}
+
+.gray{
+  background-color: #d8d9db;
+  height: 90px;
+  width: 90px;
+  font-size: xx-large;
+  font-weight: bold;
+  border: 1px;
+}
+
+.twice{
+  width: 270px;
+  font-size: xx-large;
+  font-weight: bold;
+  border: 1%;
+}
+
+.three{
+  width: 180px;
+  font-size: xx-large;
+  font-weight: bold;
+  border: 1px;
+}
+
+.orange{
+  background-color:goldenrod;
+  height: 90px;
+  width: 90px;
+  font-size: xx-large;
+  font-weight: bold;
+  border: 1px;
+  border-color:#000000;
+  border-style:solid;
+}
+
+.box{
+  background-color: #000000;
+  height: 90px;
+  width: 360px;
+  padding-bottom: 0%;
+  border: 1px;
+}

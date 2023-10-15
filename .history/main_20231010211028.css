@@ -1,0 +1,9 @@
+body{
+  background-color: aquamarine;
+}
+
+.max-width {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}

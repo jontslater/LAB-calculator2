@@ -1,0 +1,35 @@
+body{
+  background-color: #000000;
+}
+
+.container{
+  width: 400px;
+}
+
+.buttonss{
+  background-color: #d8d9db;
+  height: 90px;
+  width: 90px;
+  font-size: xx-large;
+  
+}
+
+.orange{
+  background-color:goldenrod;
+  height: 90px;
+  width: 90px;
+}
+
+.gray{
+  background-color: #d8d9db;
+  height: 90px;
+  width: 90px;
+}
+
+.twice{
+  width: 270px;
+}
+
+.three{
+  width: 180px
+}
