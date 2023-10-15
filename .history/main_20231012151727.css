@@ -1,0 +1,14 @@
+body{
+  background-color: aquamarine;
+}
+.container{
+  width: 400xp;
+}
+
+.buttonOne{
+  color: rgb(247, 0, 0);
+  background-color: black;
+  height: 90px;
+  width: 90px;
+
+}

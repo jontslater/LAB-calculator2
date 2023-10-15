@@ -1,0 +1,8 @@
+body{
+  background-color: cadetblue;
+}
+
+.container {
+  column-width: 400px;
+  flex-wrap: wrap;
+}
